@@ -2,6 +2,10 @@
 
 For creating the Java application see the git repo: https://github.com/luiscoco/Azure_SDK_Java_Sample1_CreateResourceGroup
 
+## 0. Project structure
+
+![image](https://github.com/luiscoco/Azure_SDK_Java_Sample2_Create_StorageAccount/assets/32194879/9886fcbd-27e4-4d72-89bb-80ebc01b0ffb)
+
 ## 1. Main.java
 
 ```java
