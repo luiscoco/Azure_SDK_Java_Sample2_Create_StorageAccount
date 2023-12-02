@@ -180,4 +180,15 @@ public class Main {
 
 </project>
 ```
-```
+
+## 3. Build and run the application
+
+![image](https://github.com/luiscoco/Azure_SDK_Java_Sample2_Create_StorageAccount/assets/32194879/18cb9960-e295-4bb3-aa00-5824ab4adb3c)
+
+## 4. Application output
+
+![image](https://github.com/luiscoco/Azure_SDK_Java_Sample2_Create_StorageAccount/assets/32194879/ab39bd01-0446-4bb8-800d-35585b70e200)
+
+![image](https://github.com/luiscoco/Azure_SDK_Java_Sample2_Create_StorageAccount/assets/32194879/50a2d503-5a10-46a6-82b2-7d1ae8f4f0d6)
+
+![image](https://github.com/luiscoco/Azure_SDK_Java_Sample2_Create_StorageAccount/assets/32194879/20d21e5e-07b5-448f-b366-a9bb803b4bd7)
