@@ -1,5 +1,7 @@
 # Azure_SDK_Java_Sample2_Create_StorageAccount
 
+For creating the Java application see the git repo: https://github.com/luiscoco/Azure_SDK_Java_Sample1_CreateResourceGroup
+
 ## 1. Main.java
 
 ```java
