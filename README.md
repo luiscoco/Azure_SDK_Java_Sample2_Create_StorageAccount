@@ -187,7 +187,17 @@ public class Main {
 
 ## 3. Build and run the application
 
-![image](https://github.com/luiscoco/Azure_SDK_Java_Sample2_Create_StorageAccount/assets/32194879/18cb9960-e295-4bb3-aa00-5824ab4adb3c)
+To compile the application type the command:
+
+```
+mvn clean install
+```
+
+To run the application execute the command:
+
+```
+mvn exec:java
+```
 
 ## 4. Application output
 
